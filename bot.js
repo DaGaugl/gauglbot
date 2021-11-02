@@ -43,6 +43,9 @@ function onMessageHandler (target, context, msg, self) {
   if (commandName === 'gb Okayeg') {
       result = "Okayeg TeaTime";
   }
+  if (commandName === 'gb github') {
+      result = "https://github.com/DaGaugl/gauglbot"
+  }
   if (commandName === 'forsen') {
       result = "forsen";
   }
