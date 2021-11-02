@@ -1,2 +1,2 @@
 # GauglBot
-Useless twitch bot to learn JavaScript
+Useless twitch bot
